@@ -1,6 +1,7 @@
 ## WEATHER APP
-# Name: SWETHA A
-# Reg no: 212223220114
+
+Name: SWETHA A
+Reg no: 212223220114
 
 Build a Weather App using React
 
@@ -227,9 +228,10 @@ button {
 
 # OUTPUT
 
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2025-04-19 095055.png"
+![Screenshot 2025-04-19 095055](https://github.com/user-attachments/assets/9683c801-fe4d-424a-bfa3-def48c0b437a)
 
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2025-04-19 095254.png"
+![Screenshot 2025-04-19 095254](https://github.com/user-attachments/assets/9059b51f-a51f-451b-b1e5-d83a18fd20b4)
+
 
 # RESULT
 The giver task is implemented by reactor(Weather-app).
